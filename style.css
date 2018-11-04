@@ -1,0 +1,16 @@
+.header{
+display: flex;
+justify-content: space-between;
+width: 40%;
+}
+.login{
+  display: flex;
+justify-content: space-between;
+flex-direction: row;
+}
+a:visited{
+  color:black;
+}
+a{
+  text-decoration: none;
+}
